@@ -1,6 +1,4 @@
 # EtechCycle NTHS Hackathon
-Here’s your updated README with the project name changed to:
-
 # ♻️ EtechCycle – AI-Powered E-Waste Detection System
 
 EtechCycle is an AI-driven computer vision project built using YOLOv8 to detect and classify electronic waste in real-time. The system uses a custom-trained deep learning model to identify e-waste objects through a webcam feed, helping promote proper recycling and sustainable waste management.
